@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Sosyal_Ag",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Sosyal_Ag::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sosyal_Ag-Debug-6b8ba712aa12d1df9f0c.json",
+					"name" : "Sosyal_Ag",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/yusuf/Desktop/Yeditepe/C++ Sosyal A\u011f/Sosyal_Ag/cmake-build-debug",
+		"source" : "/Users/yusuf/Desktop/Yeditepe/C++ Sosyal A\u011f/Sosyal_Ag"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

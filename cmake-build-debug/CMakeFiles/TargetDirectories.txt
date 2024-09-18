@@ -1,0 +1,3 @@
+/Users/yusuf/Desktop/Yeditepe/C++ Sosyal Ağ/Sosyal_Ag/cmake-build-debug/CMakeFiles/Sosyal_Ag.dir
+/Users/yusuf/Desktop/Yeditepe/C++ Sosyal Ağ/Sosyal_Ag/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yusuf/Desktop/Yeditepe/C++ Sosyal Ağ/Sosyal_Ag/cmake-build-debug/CMakeFiles/rebuild_cache.dir
